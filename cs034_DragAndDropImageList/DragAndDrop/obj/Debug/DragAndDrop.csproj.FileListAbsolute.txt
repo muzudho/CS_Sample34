@@ -1,0 +1,72 @@
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDrop\DragAndDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs025_DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs025_DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropImage\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropImage\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropImage\DragAndDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs026_DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs026_DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs026_DragAndDropImage\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs026_DragAndDropImage\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs026_DragAndDropImage\DragAndDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs026_DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs026_DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs026_DragAndDropImage\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropList\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropList\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropList\DragAndDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs027_DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs027_DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs027_DragAndDropList\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs027_DragAndDropList\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs027_DragAndDropList\DragAndDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs027_DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs027_DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs027_DragAndDropList\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropListImg\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropListImg\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropListImg\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropListImg\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropListImg\DragAndDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropListImg\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropListImg\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\DragAndDropListImg\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs029_DragAndDropListImg\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs029_DragAndDropListImg\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\bin\Debug\Xenon_ImgDrgTxtLstLib.dll
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_DragAndDropImageList\DragAndDrop\bin\Debug\Xenon_ImgDrgTxtLstLib.pdb
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.csprojResolveAssemblyReference.cache
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\bin\Debug\Xenon_ImgDrgTxtLstLib.dll
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_DragAndDropImageList\DragAndDrop\bin\Debug\Xenon_ImgDrgTxtLstLib.pdb

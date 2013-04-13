@@ -1,0 +1,9 @@
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\bin\Debug\Xenon_ImgDrgTxtLstLib.dll
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\bin\Debug\Xenon_ImgDrgTxtLstLib.pdb
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\obj\Debug\Xenon_ImgDrgTxtLstLib.dll
+C:\Documents and Settings\takahashi.HACHIKUMA\My Documents\Visual Studio 2008\Projects\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\obj\Debug\Xenon_ImgDrgTxtLstLib.pdb
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\bin\Debug\Xenon_ImgDrgTxtLstLib.dll
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\bin\Debug\Xenon_ImgDrgTxtLstLib.pdb
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\obj\Debug\Xenon_ImgDrgTxtLstLib.dll
+C:\Users\Takahashi\Downloads\cs034_for_download\cs034_for_download\cs034_Xenon_ImgDrgTxtLstLib\Xenon_ImgDrgTxtLstLib\obj\Debug\Xenon_ImgDrgTxtLstLib.pdb
